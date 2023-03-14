@@ -26,7 +26,7 @@ hi, i'm Abhishek Naidu, a passionate self-taught full stack web developer and a 
   <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>

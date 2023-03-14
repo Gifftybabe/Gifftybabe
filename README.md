@@ -25,17 +25,11 @@ hi, i'm Abhishek Naidu, a passionate self-taught full stack web developer and a 
 
 
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-Python   13 hrs 18 mins  ██████████████████▒░░░░░░   73.84 %
-JavaScript   2 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
-YAML         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Other        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+  <a href="https://github.com/Gifftybabe">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gifftybabe=radical" alt="GitHub Contribution"/>
+  </a>
+</p>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 

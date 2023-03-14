@@ -39,7 +39,7 @@ Other        31 mins         ▓░░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/Gifftybabe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -57,4 +57,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)ttps://github.com/mscoutermarsh/mscoutermarsh).
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+![Snake animation](https://github.com/Gifftybabe/Giftybabe/blob/output/github-contribution-grid-snake.svg)

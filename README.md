@@ -59,4 +59,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-![Snake animation](https://github.com/Gifftybabe/Giftybabe/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gifftybabe/Gifftybabe/blob/output/github-contribution-grid-snake.svg)

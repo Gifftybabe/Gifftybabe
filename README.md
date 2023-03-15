@@ -21,7 +21,7 @@ I'm Uloka Ngozi, a passionate self-taught full stack web developer and a freelan
 
 <br>
 <br>
-## :computer: Programming languages and tools: 
+:computer: ## Programming languages and tools: 
   <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>

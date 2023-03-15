@@ -7,7 +7,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-I'm Uloka Ngozi, a passionate self-taught full stack web developer and a freelance software engineer from Nigeria. 
+I'm Uloka Ngozi, a passionate self-taught full stack web developer and a freelance software engineer from Nigeria.<br> 
  Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
   Ask me anything <a href="https://github.com/Gifftybabe/Gifftybabe/issues/new"><b>here</b></a><br>
     or <a href="mailto:ulokangozi@gmail.com"><b>email</b></a> me.
@@ -16,7 +16,7 @@ I'm Uloka Ngozi, a passionate self-taught full stack web developer and a freelan
 <br>
  <p align="center">
  <a href="https://twitter.com/Gifftybabe"><img src="https://img.shields.io/twitter/follow/Gifftybabe?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/Gifftybabe/"><img src="https://img.shields.io/badge/-Gifftybabe%20Trilokia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/Gifftybabe/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+   <a href="https://www.linkedin.com/in/Gifftybabe/"><img src="https://img.shields.io/badge/-Gifftybabe%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/Gifftybabe/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
     <a href="https://facebook.com/Gifftybabe"><img src="https://img.shields.io/facebook/follow/Gifftybabe?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://instagram.com/Gifftybabe"><img src="https://img.shields.io/instagram/follow/Gifftybabe?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -17,12 +17,11 @@ I'm Uloka Ngozi, a passionate self-taught full stack web developer and a freelan
  <p align="center">
  <a href="https://twitter.com/Gifftybabe"><img src="https://img.shields.io/twitter/follow/Gifftybabe?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/Gifftybabe/"><img src="https://img.shields.io/badge/-Gifftybabe%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/Gifftybabe/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
-    <a href="https://facebook.com/Gifftybabe"><img src="https://img.shields.io/facebook/follow/Gifftybabe?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://instagram.com/Gifftybabe"><img src="https://img.shields.io/instagram/follow/Gifftybabe?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   
 
 <br>
 <br>
-### :computer: Programming languages and tools: 
+## :computer: Programming languages and tools: 
   <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -63,6 +62,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 </p>
+
+![](https://github.com/Gifftybabe/Gifftybabe/blob/master/teeter.gif?raw=true)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 

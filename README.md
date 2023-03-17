@@ -67,4 +67,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-![Snake animation](https://github.com/Gifftybabe/Gifftybabe/blob/output/github-contribution-grid-snake.svg)
+### <img src="https://capturemytweet.itsvg.in/logo.png" width="16px" />  Capture my Tweet
+Presenting [Capture my Tweet](https://capturemytweet.itsvg.in) , Turn your tweets into wonderful images and post them anywhere! Tons of Features and Customisations, all for free ! 
+
+
+### <img src="https://visitcount.itsvg.in/logo.png" width="16px" />  Visit Count Pro
+[Visit Count Pro](https://visitcount.itsvg.in) is More than just a Visit Counter. Best Customization, Realtime Analytics, Best No-Code Solution, Works everywhere, all for free !

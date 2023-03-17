@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  I'm Uloka Ngozi , a passionate self-taught full stack web developer and a freelance software engineer from Nigeria.<br> 
+Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" !!>  I'm Uloka Ngozi , a passionate self-taught full stack web developer and a freelance software engineer from Nigeria.<br> 
  Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
   Ask me anything <a href="https://github.com/Gifftybabe/Gifftybabe/issues/new"><b>here</b></a><br>
     or <a href="mailto:ulokangozi@gmail.com"><b>email</b></a> me.

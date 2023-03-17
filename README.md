@@ -13,9 +13,11 @@
 
 · <a href="https://drive.google.com/file/d/1cWF-czWEcZXS97p_5xyC3ZqJXmJID2Dt/view?usp=share_link">Resume</a> .
 <br>
- <p align="center">
- <a href="https://twitter.com/Gifftybabe"><img src="https://img.shields.io/twitter/follow/Gifftybabe?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/Gifftybabe/"><img src="https://img.shields.io/badge/-Gifftybabe%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/Gifftybabe/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+ <a href="https://www.linkedin.com/in/Gifftybabe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/Gifftybabe" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/31hrejgznllsxivvdskuqjqb24qq" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://www.twitter.com/Gifftybabe" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Twitter"></a>
    
 
 <br>

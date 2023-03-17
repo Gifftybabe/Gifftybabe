@@ -59,7 +59,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ![](https://github.com/Gifftybabe/Gifftybabe/blob/master/teeter.gif?raw=true)
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /><img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+
+
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">

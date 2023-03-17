@@ -1,13 +1,13 @@
-You have finally discovered my Github profile. <br>
+
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=900&size=30&duration=3000&pause=1000&color=30804A&background=15151500&center=true&vCenter=true&multiline=true&width=440&height=71&lines=Welcome+to;Gifftybabe's+Github" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=900&size=30&duration=3000&pause=1000&color=30804A&background=15151500&center=true&vCenter=true&multiline=true&width=440&height=60&lines=Welcome+to;Gifftybabe's+Github" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
 
 
-I'm Uloka Ngozi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, a passionate self-taught full stack web developer and a freelance software engineer from Nigeria.<br> 
+<h1>Hi</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> I'm Uloka Ngozi , a passionate self-taught full stack web developer and a freelance software engineer from Nigeria.<br> 
  Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
   Ask me anything <a href="https://github.com/Gifftybabe/Gifftybabe/issues/new"><b>here</b></a><br>
     or <a href="mailto:ulokangozi@gmail.com"><b>email</b></a> me.

@@ -17,7 +17,9 @@
 <a href="https://www.instagram.com/Gifftybabe" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/31hrejgznllsxivvdskuqjqb24qq" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://www.twitter.com/Gifftybabe" target="_blank"><img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Twitter"></a>
+<a href="https://twitter.com/Gifftybabe" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
    
 
 <br>

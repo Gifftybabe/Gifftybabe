@@ -20,7 +20,7 @@
  <a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
  <a href="https://open.spotify.com/user/31hrejgznllsxivvdskuqjqb24qq" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <!--  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gifftybabe) -->
- <a href="https://open.spotify.com/user/31hrejgznllsxivvdskuqjqb24qq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+ <a href="https://open.twitter.com/user/Gifftybabe" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 
 <br>

@@ -26,8 +26,8 @@
 
 <br>
 <br>
-## Programming languages and tools :computer:: 
-  <p>
+## 👨‍💻 Languages and Tools:
+<p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>

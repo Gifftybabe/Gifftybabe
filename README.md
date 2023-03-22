@@ -26,9 +26,8 @@
 
 <br>
 <br>
-
+## 👨‍💻 Languages and Tools:
 <p>
- ## 👨‍💻 Languages and Tools:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>

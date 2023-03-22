@@ -21,7 +21,7 @@
  <a href="https://open.spotify.com/user/31hrejgznllsxivvdskuqjqb24qq" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://twitter.com/Gifftybabe" target="_blank">
   <img align="center" alt="Rahul Dhanola | Twitter"  src="https://camo.githubusercontent.com/d7cb1dd1cb1934a60f80c33b839975af5ce9e376a967b26e14290801ba30eda4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f267374796c653d666c61742d737175617265266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" />
-</a> &nbsp;&nbsp;
+</a>
 
 
 <br>

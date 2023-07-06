@@ -2,6 +2,9 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&duration=1000&pause=0000&color=30804A&background=15151500&center=true&vCenter=true&multiline=true&width=440&height=60&lines=Welcome+to;Gifftybabe's+Github" alt="Typing SVG" /></a>
+
+
+ <img width="1000px" height="2000%" src="https://user-images.githubusercontent.com/105078661/190812629-3c7fe487-e34a-4aed-a4d3-d7829ae85792.png" alt="my banner">
 </p>
 
 <div align="center">

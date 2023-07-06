@@ -9,8 +9,9 @@
 
 <div align="center">
 
- I'm Uloka Ngozi , a passionate self-taught full stack web developer and a freelance software engineer from Nigeria.<br> 
- Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+ /*I'm Uloka Ngozi , a passionate self-taught full stack web developer and a freelance software engineer from Nigeria.<br> 
+ Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>*/
+ I love the challenge of finding solutions to problems and spending time to meet new people. Learning and trying new things and most importanly, having a hand in developing the INNOVATIONS of tomorrow!!
   Ask me anything <a href="https://github.com/Gifftybabe/Gifftybabe/issues/new"><b>here</b></a><br>
     or <a href="mailto:ulokangozi@gmail.com"><b>email</b></a> me.
 

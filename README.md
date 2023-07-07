@@ -8,6 +8,13 @@
 </p>
 
 <div align="center">
+<h3 align="center">
+Hi there👋, I'm Gift😄
+</h3>
+
+<h2 align="center">
+A Frontend Developer 🌈, Finacial Ananlyst 💴,  and Designer 🎨!
+</h2>
 
  I love the challenge of finding solutions to problems and spending time to meet new people. Learning and trying new things and most importanly, having a hand in developing the INNOVATIONS of tomorrow!!
  

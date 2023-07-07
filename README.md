@@ -20,7 +20,7 @@
 ## 🌱 I'm currently learning
 
 - 📱 Data Structure and Algorithms
-  Tailwind CSS
+-  Tailwind CSS
 - JavaScript, REACT JS, Node JS, PYTHON
 - Styled Components
  

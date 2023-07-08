@@ -26,10 +26,10 @@ A Frontend Developer 🌈, Finacial Ananlyst 💴,  and Designer 🎨!
 
 ## 🌱 I'm currently learning
 
-- 📱 Data Structure and Algorithms
--  Tailwind CSS
-- JavaScript, REACT JS, Node JS, PYTHON
-- Styled Components
+ 📱 Data Structure and Algorithms
+  Tailwind CSS
+ JavaScript, REACT JS, Node JS, PYTHON
+ Styled Components
  
 ## Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br>
   <a href="https://www.linkedin.com/in/Gifftybabe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

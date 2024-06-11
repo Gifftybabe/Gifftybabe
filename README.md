@@ -18,17 +18,17 @@ A Frontend Developer🌈,  Finacial Analyst💴,   and Writer📝!
 
  I love the challenge of finding solutions to problems and spending time to meet new people. Learning and trying new things and most importanly, having a hand in developing the INNOVATIONS of tomorrow!!
  
-  Ask me anything <a href="https://github.com/Gifftybabe/Gifftybabe/issues/new"><b>here</b></a><br>
-    or <a href="mailto:ulokangozi@gmail.com"><b>email</b></a> me.
+  Ask me anything <a href="https://github.com/Gifftybabe/Gifftybabe/issues/new" target="_blank"><b>here</b></a><br>
+    or <a href="mailto:ulokangozi@gmail.com" target="_blank"><b>email</b></a> me.
 
-· <a href="https://drive.google.com/file/d/1wS7aOKcKSSzyQ8kU-H2Qu0DIledipd9L/view?usp=drive_link">Resume</a> .
+· <a href="https://drive.google.com/file/d/1wS7aOKcKSSzyQ8kU-H2Qu0DIledipd9L/view?usp=drive_link" target="_blank">Resume</a> .
 <br>
 
 ## 🌱 I'm currently learning
 
  - 📱 Data Structure and Algorithms
- - Tailwind CSS
- - JavaScript, REACT JS, Node JS, PYTHON
+ - NextJs
+ - REACT JS, Node JS, PYTHON
  - Styled Components
  
 ## Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br>

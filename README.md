@@ -21,7 +21,7 @@ A Frontend Developer🌈,  Finacial Analyst💴,   and Writer📝!
   Ask me anything <a href="https://github.com/Gifftybabe/Gifftybabe/issues/new"><b>here</b></a><br>
     or <a href="mailto:ulokangozi@gmail.com"><b>email</b></a> me.
 
-· <a href="https://drive.google.com/file/d/1cWF-czWEcZXS97p_5xyC3ZqJXmJID2Dt/view?usp=share_link">Resume</a> .
+· <a href="https://drive.google.com/file/d/1wS7aOKcKSSzyQ8kU-H2Qu0DIledipd9L/view?usp=drive_link">Resume</a> .
 <br>
 
 ## 🌱 I'm currently learning
